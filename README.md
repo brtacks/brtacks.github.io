@@ -1,6 +1,6 @@
 # brass-tacks.github.io
 
-*The Brass Tacks* is an online magazine that explores debated ideas with visual, data-driven essays.
+*The Brass Tacks* is an online magazine that explores ideas with visual essays; founded and operated by Jason Kao.
 
 ## Style
 
