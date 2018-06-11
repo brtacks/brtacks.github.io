@@ -1,6 +1,8 @@
-# brtacks.github.io
+_Because rhetoric gets us nowhere._
 
-*The Brass Tacks* is an online magazine that explores ideas with visual essays. It is operated by its founder and Editor-in-Chief, Jason Kao. This repository holds information and assets for the magazine.
+# The Brass Tacks
+
+*The Brass Tacks* is an online magazine that creates visual, data-driven essays to inform discussion around different cultural, political, and social ideas. It is operated by its founder and Editor-in-Chief, Jason Kao. This repository holds information and assets for the magazine.
 
 ## Style
 
