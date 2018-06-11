@@ -1,4 +1,4 @@
-# brass-tacks.github.io
+# brtacks.github.io
 
 *The Brass Tacks* is an online magazine that explores ideas with visual essays. It is operated by its founder and Editor-in-Chief, Jason Kao. This repository holds information and assets for the magazine.
 
