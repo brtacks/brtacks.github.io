@@ -1,8 +1,12 @@
-_Because rhetoric gets us nowhere._
+_Reason over rhetoric._
 
 # The Brass Tacks
 
 *The Brass Tacks* is an online magazine that creates visual, data-driven essays to inform discussion around different cultural, political, and social ideas. It is operated by its founder and Editor-in-Chief, Jason Kao. This repository holds information and assets for the magazine.
+
+## For the Historians
+
+Process materials [for the historians](HISTORIANS.md).
 
 ## Style
 
